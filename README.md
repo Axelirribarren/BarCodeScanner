@@ -82,4 +82,4 @@ The project follows a modular architecture for easy maintenance:
 *   **`ui.py`**: Clean and friendly console interface.
 
 ---
-**Developed with Python 🐍**
+**Developed by Axel Irribarren with Python 🐍**
